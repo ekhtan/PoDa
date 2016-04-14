@@ -8,6 +8,6 @@ We are expected to sequence 600 potato haploids (400 from CIP, 200 from UCD) fro
 
 ## Contents include:
 
-### 1. Evaluation of sequencing methods, can be found here.
+### 1. Evaluation of sequencing methods, can be found [here] (https://github.com/ekhtan/PoDa/Sequencing_methods.md).
 
 ### 2. tbd

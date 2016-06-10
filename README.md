@@ -10,4 +10,6 @@ We are expected to sequence 600 potato haploids (400 from CIP, 200 from UCD) fro
 
 ### 1. Evaluation of sequencing methods, can be found [here] (https://github.com/ekhtan/PoDa/blob/master/Sequencing_methods.md).
 
-### 2. tbd
+### 2. Evaluation of dosage plotting method for potato haploids, can be found [here] (https://github.com/ekhtan/PoDa/blob/master/Dosage_plots.md)
+
+### tbd
